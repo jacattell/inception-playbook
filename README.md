@@ -22,10 +22,4 @@ Of course, knowing why you might want to run an Inception is not the same as bei
 
 We believe it’s possible to distil the essence of an Inception into a blueprint. This document is that blueprint.
 
-By taking away some of the complexity and providing ideas to riff off and make your own, this playbook aims to support beginners and experts alike. Over the pages that follow, you’ll find the tools to build better foundations for the initiatives you work on.  
-
-
-{% embed url="https://drive.google.com/open?id=10dWzxwCDjSS16M4wOX\_B0H5zoznAyIHj" %}
-
-
-
+By taking away some of the complexity and providing ideas to riff off and make your own, this playbook aims to support beginners and experts alike. Over the pages that follow, you’ll find the tools to build better foundations for the initiatives you work on.
